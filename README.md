@@ -1,4 +1,4 @@
-# BotExtracaoVideosYoutube
+# Bot para Extração de Vídeos de canais do Youtube
 
 Simplesmente o Bot Extrator do entretenimento!
 
